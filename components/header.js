@@ -17,25 +17,25 @@ class Header extends HTMLElement {
               <a class="nav-link" href="https://drdiarra.github.io/DrD-portfolio/">Home</a>
             </li>
             <li class="nav-item mr-2">
-              <a class="nav-link" href="pages/education.html">Education</a>
+              <a class="nav-link" href="../pages/education.html">Education</a>
             </li>
             <li class="nav-item mr-2">
-              <a class="nav-link" href="pages/experience.html">Experience</a>
+              <a class="nav-link" href="../pages/experience.html">Experience</a>
             </li>
             <li class="nav-item mr-2">
-              <a class="nav-link" href="pages/skills.html">Skills</a>
+              <a class="nav-link" href="../pages/skills.html">Skills</a>
             </li>
             <li class="nav-item mr-2">
-              <a class="nav-link" href="pages/teaching.html">Teaching</a>
+              <a class="nav-link" href="../pages/teaching.html">Teaching</a>
             </li>
             <li class="nav-item mr-2">
-              <a class="nav-link" href="pages/projects.html">Projects</a>
+              <a class="nav-link" href="../pages/projects.html">Projects</a>
             </li> 
             <li class="nav-item mr-2">
-              <a class="nav-link" href="pages/publications.html">Publications</a>
+              <a class="nav-link" href="../pages/publications.html">Publications</a>
             </li>
             <li class="nav-item mr-2">
-              <a class="nav-link" href="pages/blogposts.html">Blogs</a>
+              <a class="nav-link" href="../pages/blogposts.html">Blogs</a>
             </li>
           </ul>
         </div>
