@@ -17,7 +17,7 @@ class Header extends HTMLElement {
               <a class="nav-link" href="https://drdiarra.github.io/DrD-portfolio/">Home</a>
             </li>
             <li class="nav-item mr-2">
-              <a class="nav-link" href="/DrD-portfolio/pages/education.html">Education</a>
+              <a class="nav-link" href="DrD-portfolio/pages/education.html">Education</a>
             </li>
             <li class="nav-item mr-2">
               <a class="nav-link" href="/DrD-portfolio/pages/experience.html">Experience</a>
